@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SaoTsea.Ds.Api.props" />
+</Project>
